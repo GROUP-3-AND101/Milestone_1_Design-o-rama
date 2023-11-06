@@ -63,7 +63,7 @@ Required Feature
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="https://github.com/ba-00001/Milestone_1_Design-o-rama/blob/main/low-fidelity%20wireframe.jpg" width=600>
+<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/low-fidelity%20wireframe.jpg" width=400>
 
 
 ### [BONUS] Digital Wireframes & Mockups
