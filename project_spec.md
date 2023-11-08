@@ -60,6 +60,15 @@ Required Feature
 - User conducts a specific search for a book
   - => App presents relevant search results based on the user's query
 
+### 3. Tab Navigation
+
+Extra features
+
+- Book List
+- Favorite Books
+- Genre
+- Share
+
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
@@ -67,13 +76,12 @@ Required Feature
 
 
 ### [BONUS] Digital Wireframes & Mockups
-🚧 Under Construction 🚧
-This section is currently under construction. Please check back later for the completed version.
+<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/BookAppReview%20Digital%20wireframe.mockup%20images.png" width=400>
 
-
+<!-- 🚧 Under Construction 🚧
+This section is currently under construction. Please check back later for the completed version. -->
 ### [BONUS] Interactive Prototype
-🚧 Under Construction 🚧
-This section is currently under construction. Please check back later for the completed version.
+<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/AND101.BookReviewApp.InteractivePrototype.gif" width=400>
 
 
 ## Build Notes
