@@ -60,9 +60,9 @@ Required Feature
 - User conducts a specific search for a book
   - => App presents relevant search results based on the user's query
 
-### 4. Tab Navigation
+### 4. Extra features 
 
-Extra features
+Tab Navigation
 
 - Book List
 - Favorite Books
