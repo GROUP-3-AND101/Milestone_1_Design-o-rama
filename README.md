@@ -2,7 +2,7 @@
 
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Team/App Name**
+# AND101 Milestone 1 - **Team # 3 /Book app review**
 
 Submitted by:
 - **BRIAN BAZURTO**
@@ -48,6 +48,17 @@ The following EXTRA features are implemented:
 
 - [x] List anything else that you added to improve your submission!
 - [x] Tab Navigation
+
+
+### Demo app video
+🚧 Under Construction 🚧
+This section is currently under construction. Please check back later for the completed version
+
+<img src="https://github.com/GROUP-3-AND101/Milestone_1_Design-o-rama/blob/main/AND101.BookReviewApp.InteractivePrototype.gif" width=600>
+
+<!-- 🚧 Under Construction 🚧
+This section is currently under construction. Please check back later for the completed version. -->
+
 
 ## Notes
 
