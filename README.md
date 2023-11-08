@@ -46,7 +46,8 @@ The following BONUS features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+- [x] List anything else that you added to improve your submission!
+- [x] Tab Navigation
 
 ## Notes
 
